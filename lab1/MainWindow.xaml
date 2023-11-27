@@ -13,8 +13,16 @@
         <TextBox x:Name="textBox4" HorizontalAlignment="Left" Margin="185,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Кількість поверхів" HorizontalAlignment="Left" Margin="20,33,0,0" VerticalAlignment="Top"/>
         <Label Content="Кількість квартир на поверсі" HorizontalAlignment="Left" Margin="20,75,0,0" VerticalAlignment="Top"/>
-        <Label Content="Ціна квадратного метра" HorizontalAlignment="Left" Margin="20,115,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ціна квартири" HorizontalAlignment="Left" Margin="20,115,0,0" VerticalAlignment="Top"/>
         <Label Content="Кількість під'їздів" HorizontalAlignment="Left" Margin="21,159,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,0.679"/>
         <Button Content="Розрахувати" HorizontalAlignment="Left" Margin="448,81,0,0" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="0.488,0.483"/>
+        <Label Content="Площа квартири" HorizontalAlignment="Left" Margin="21,202,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left" Margin="185,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Left" Margin="185,249,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox7" HorizontalAlignment="Left" Margin="185,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Кількість кімнат" HorizontalAlignment="Left" Margin="20,245,0,0" VerticalAlignment="Top"/>
+        <Label Content="Район квартири в центрі" HorizontalAlignment="Left" Margin="20,288,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox8" HorizontalAlignment="Left" Margin="185,336,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Ціна квадратного метру" HorizontalAlignment="Left" Margin="20,332,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
